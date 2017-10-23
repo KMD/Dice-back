@@ -1,0 +1,11 @@
+* Training project of Dice Game (backend part)
+** Instalation
+	- Download or clone it (maybe fork it).
+	- Instal dependencies
+	  ~npm install~
+	- On MacOS or Linux, run the app with this command:
+	  ~DEBUG=myapp:* npm start~
+	  On Windows, use this command:
+	  ~set DEBUG=myapp:* & npm start~
+	- Start frontend part of Training Project.
+	- Enjoy !
